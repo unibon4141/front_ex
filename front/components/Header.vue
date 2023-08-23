@@ -26,7 +26,7 @@
         <div>
             <img
                 class="img1"
-                src="image/Living1.svg"
+                src="/image/Living1.svg"
                 alt=""
                 v-motion
                 :initial="{ opacity: 0, y: 100 }"
@@ -39,7 +39,7 @@
         <div>
             <img
                 class="img2"
-                src="image/RemoteMeeting1.svg" 
+                src="/image/RemoteMeeting1.svg" 
                 alt="" 
                 v-motion
                 :initial="{ opacity: 0, y: 100 }"
@@ -52,7 +52,7 @@
         <div>
             <img 
                 class="img3" 
-                src="image/Teamwork1.svg" 
+                src="/image/Teamwork1.svg" 
                 alt=""
                 v-motion
                 :initial="{ opacity: 0, y: 100 }"

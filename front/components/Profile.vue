@@ -17,10 +17,10 @@
         </div>
         <div class="profile-photo-card">
           <div class="profile-photo-human">
-            <img src="image/Picprofile1.svg" alt="" />
+            <img src="/image/Picprofile1.svg" alt="" />
           </div>
           <div class="profile-photo-food">
-            <img src="image/food.svg" alt="" />
+            <img src="/image/food.svg" alt="" />
           </div>
         </div>
       </div>

@@ -9,12 +9,12 @@
           <p class="card-title">見た目</p>
           <div class="tech-card-content">
             <div class="tech-item">
-              <div class="tech-img"><img src="image\techStack\html.svg" alt="" /></div>
+              <div class="tech-img"><img src="/image/techStack/html.svg" alt="" /></div>
               <p class="tech-name">HTML</p>
             </div>
 
             <div class="tech-item">
-              <div class="tech-img css-item"><img src="image\techStack\css.svg" alt="" /></div>
+              <div class="tech-img css-item"><img src="/image/techStack/css.svg" alt="" /></div>
               <p class="tech-name">CSS</p>
             </div>
           </div>
@@ -24,12 +24,12 @@
           <p class="card-title">システム</p>
           <div class="tech-card-content">
             <div class="tech-item">
-              <div class="tech-img"><img src="image\techStack\React.svg" alt="" /></div>
+              <div class="tech-img"><img src="/image/techStack/React.svg" alt="" /></div>
               <p class="tech-name">JavaScript</p>
             </div>
 
             <div class="tech-item">
-              <div class="tech-img"><img src="image\techStack\Javascript.svg" alt="" /></div>
+              <div class="tech-img"><img src="/image/techStack/Javascript.svg" alt="" /></div>
               <p class="tech-name">React</p>
             </div>
           </div>

@@ -2,15 +2,15 @@
 const imgUrls = [
     {
         url: "https://mahjong-vis.vdslab.jp/",
-        img: "image/collectionSites/mahjong.svg"
+        img: "/image/collectionSites/mahjong.svg"
     },
     {
         url: "https://roadmap-legends.vdslab.jp/",
-        img: "image/collectionSites/qiita.svg"
+        img: "/image/collectionSites/qiita.svg"
     },
     {
         url: "",
-        img: "image/collectionSites/anime-log.svg"
+        img: "/image/collectionSites/anime-log.svg"
     }
 ];
 

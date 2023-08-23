@@ -7,20 +7,20 @@
       <div class="content-flex reason-content">
         <div class="reason-box">
           <div class="reason-card radius">
-            <img src="image\reasonForChoosing\Webdevices1.svg" alt="" />
+            <img src="/image/reasonForChoosing/Webdevices1.svg" alt="" />
           </div>
           <p>デバイスを問わずに<br />サービスを届けられる</p>
         </div>
         <div class="reason-box">
           <div class="reason-card radius">
-            <img src="image\reasonForChoosing\Development1.svg" alt="" />
+            <img src="/image/reasonForChoosing/Development1.svg" alt="" />
           </div>
           <p>自分の考えを形にできる</p>
         </div>
         <div class="reason-box">
           <div class="reason-card radius">
             <img
-              src="image\reasonForChoosing\JavaScriptFrameworks1.svg"
+              src="/image/reasonForChoosing/JavaScriptFrameworks1.svg"
               alt=""
             />
           </div>

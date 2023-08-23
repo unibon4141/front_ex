@@ -8,11 +8,11 @@
             <h2>フロントエンドエンジニアとは</h2>
             <div class="content-flex">
                 <div class="summary-card summary-left-card">
-                    <div><img src="image/jobSummary/ThoughtProcess1.svg" alt=""></div>
+                    <div><img src="/image/jobSummary/ThoughtProcess1.svg" alt=""></div>
                     <p>WEBページの見た目を作る</p>
                 </div>
                 <div class="summary-card">
-                    <div><img src="image/jobSummary/ThoughtProcess4.svg" alt=""></div>
+                    <div><img src="/image/jobSummary/ThoughtProcess4.svg" alt=""></div>
                     <p>論理的な仕組みを作る</p>
                 </div>
             </div>
