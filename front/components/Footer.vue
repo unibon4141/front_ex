@@ -3,8 +3,8 @@
 <template>
   <div class="bg3 footer-box">
     <div class="message">
-      <p>ぜひ、私と一緒に協働しませんか？</p>
-      <p>ぜひ一度お話しませんか?</p>
+      <p>ぜひ、私と一緒のチームで働きませんか？</p>
+      <p>一度お話しませんか?</p>
     </div>
     <div class="img1"><img src="/image/footer/footer1.svg" alt="" /></div>
     <div class="img2"><img src="/image/footer/footer2.svg" alt="" /></div>
