@@ -1,0 +1,16 @@
+version: '3'
+services:
+  app:
+    build: ./front
+    container_name: frontend_exercise_2023
+    ports:
+      - 5555:3000
+      - 24678:24678 #HMR用のポートを追加
+    volumes:
+      - ./front:/front
+    command: bash
+    tty: true
+    environment:
+      - HOST=0.0.0.0
+      - port=5555
+      - CHOKIDAR_USEPOLLING=true

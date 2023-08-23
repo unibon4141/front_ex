@@ -1,0 +1,62 @@
+@import "ress";
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@300;400;500&display=swap');
+
+div {
+    margin: 0;
+    padding: 0;
+}
+
+h2,p,li {
+    font-family: 'Noto Sans JP', sans-serif;
+  }
+
+.bg1 {
+    background-color: #FCF4E8;
+}
+
+.bg2 {
+    background-color: #FFEBCE;
+}
+
+.bg3 {
+    background-color: #009944;
+}
+
+.radius {
+    border-radius: 15px;
+
+}
+
+.content {
+    width: 960px;
+    margin: 0 auto;
+
+    &-flex {
+        display: flex;
+        justify-content: center;
+      }
+}
+h1 {
+    font-size: 44px;
+    color:#fff;
+}
+
+h2 {
+    text-align: center;
+    font-size: 32px;
+    font-weight: 500;
+    padding-top: 64px;
+    margin-bottom: 24px;
+
+}
+
+p {
+    font-size: 24px;
+}
+
+ul {
+    list-style: none;
+    li {
+        font-weight: 400;
+    }
+}
